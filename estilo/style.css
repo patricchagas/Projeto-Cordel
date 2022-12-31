@@ -17,7 +17,7 @@
 }
 
 html, body {
-    min-height: 100vh;
+    min-height: 100vh; /* tirar não mudou nada */
     background-color: rgba(128, 128, 128, 0.298);
     font-family: var(--fonte1);
 }
